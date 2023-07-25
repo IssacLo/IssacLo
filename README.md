@@ -5,8 +5,9 @@
 ## Hello, I'm Issac Lo 👋
 
 
-I'm a front-end developer with a passion for web development.
-I'm currently working on a project and exploring new ways to become a full-stack developer.
+I'm a front-end developer with a passion for web development.<br>
+And I'm currently working on a project and exploring new ways to become a full-stack developer.
+
 
 
 <!-- ### About Me
@@ -18,7 +19,7 @@ I'm currently working on a project and exploring new ways to become a full-stack
 - 📫 How to reach me: [Your Email/Website/Social Media Links]
 - 😄 Pronouns: [Your Pronouns] -->
 
-## My Skills
+## ⚒️ My Skills
 <div> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" with="30" height='30'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="30" height='30'/>
@@ -32,17 +33,12 @@ I'm currently working on a project and exploring new ways to become a full-stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" with="30" height='30'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" with="30" height='30'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" with="30" height='30'/>
-  
-          
 </div>
 
 
-## My Projects
+## 🔎 My Projects
 
-- [Project 1]: [Description]
-- [Project 2]: [Description]
-- [Project 3]: [Description]
-
+⬇️ ⬇️ ⬇️ ⬇️
 <!-- ### Fun Fact
 
 [Fun Fact about yourself] -->
