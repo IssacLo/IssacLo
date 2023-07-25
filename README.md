@@ -4,8 +4,10 @@
 
 ## Hello, I'm Issac Lo 👋
 
-I'm a Front-End Developer with a passion for web development. 
-  I'm currently working on the Project and exploring new ways for the Full Stack Developer
+
+I'm a front-end developer with a passion for web development.
+I'm currently working on a project and exploring new ways to become a full-stack developer.
+
 
 <!-- ### About Me
 
