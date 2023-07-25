@@ -17,6 +17,8 @@ I'm a Front-End Developer with a passion for web development.
 - 😄 Pronouns: [Your Pronouns] -->
 
 ## My Skills
+<div> <img src="react_icon.png" alt="react-cion" with="30" height='30'>
+</div>
 
 
 ## My Projects
